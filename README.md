@@ -1,4 +1,4 @@
-<h1>👋 Hi,  I’m hamed Abdollahzde - Front-End Developer
+<h1>👋 Hi,  I’m hamed Abdollahzde 
  </h1>
 <br>
 <b></b>
