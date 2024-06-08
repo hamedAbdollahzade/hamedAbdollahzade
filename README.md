@@ -12,15 +12,6 @@
     projects including messenger & ... :)
 <hr>
 
-
-
-
-
-
-
-
-
-
 ![NextJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/e21b4667-0f9b-4a41-aa33-3b614d5e1258)
 ![git](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/b96418e0-0a26-45c2-b3fd-5ed1aad103a1)
 ![html-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/c9eccbf4-59f3-4959-80ab-80f57ee605f0)
