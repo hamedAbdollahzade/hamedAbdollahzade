@@ -11,4 +11,6 @@
     and react and tailwind library and working with git, github and doing many
     projects including messenger & ... :)
     
+    ![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/dc171ebd-c56d-44c8-977b-012e387e0d26)
+
 ![vite](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3f72ed31-a2dc-4eb6-bbb0-4382cd34ce0c)
