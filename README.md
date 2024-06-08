@@ -12,20 +12,17 @@
     projects including messenger & ... :)
 <hr>
 
-![NextJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/e21b4667-0f9b-4a41-aa33-3b614d5e1258)
-![git](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/b96418e0-0a26-45c2-b3fd-5ed1aad103a1)
-![html-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/c9eccbf4-59f3-4959-80ab-80f57ee605f0)
-![JS](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/888f5e37-5433-493f-baca-0921e173c29b)
-![tailwind-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/f72677c4-130b-4c61-85ed-2ca63fa3c505)
-![rest-api](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/13275428-1992-4696-a51f-0ce18e884f96)
-![responsive-design](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/e23d2e7c-66a0-4c68-bd88-7f591c0f3861)
-![redux](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/baff5cc0-854f-4a6b-8826-f76fc1ad81d5)
-![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3d6abbac-a52b-49b1-8764-14ede6d51f38)
-![vite](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/33970774-7dc9-48d5-a2e4-d5b15c816157)
-![reactJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/dcabc757-8340-43e0-b817-1061671676f6)
 
 
-
-
-
+![NextJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/a686cf37-fefb-4a2f-957b-d346696aab8b)
+![git](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/a13ca9f4-2514-49ba-b782-b43eff78a279)
+![html-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/a0ce1d2b-6013-44bd-8e17-3e3530be866b)
+![JS](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/4f5ebe55-c531-4baa-933e-4fb4cdaac319)
+![tailwind-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3eff90ef-f347-48d4-8b19-40e4551e6b41)
+![rest-api](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/2d165249-9c05-4b16-ac1e-26c40a5e047a)
+![responsive-design](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/2210075e-f53f-4c85-a558-2e41fab6e76f)
+![redux](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3d2c2fc9-ba67-47e4-9b85-e52c96eeb876)
+![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/675dabff-b18c-4c5a-a26a-0ea8c87970b9)
+![vite](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/35a41d7b-1cee-491a-a1c3-850e731559ae)
+![reactJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/68f3e673-d33a-4a4b-84ea-a2dd9cec4125)
 
