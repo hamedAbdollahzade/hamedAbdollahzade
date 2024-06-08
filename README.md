@@ -10,16 +10,17 @@
     on nodejs runtime and then choosing front-end field and learning html css
     and react and tailwind library and working with git, github and doing many
     projects including messenger & ... :)
-    
-![tailwind-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3e00088a-e15f-4ba3-9a22-e2bf84161553)
-![rest-api](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/19b45b98-d8aa-41ed-b3c7-7ec8908b72c0)
-![responsive-design](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/76d77b2a-f800-4581-8237-0d08eee8fd79)
-![redux](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3ff17eb0-5322-49c2-922f-119679a7762c)
-![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/d8b3c185-1660-4ea2-aa68-d11093587931)
-![vite](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/17989da0-1c4d-4318-90dc-6e05c4eb0c1f)
-![reactJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/a763c722-185e-49cc-92fa-087b324199e7)
-![NextJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/b93de967-c1f6-41bd-91b5-be6059892cf3)
-![git](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/8b7d7b3b-9e92-41e0-8e29-1307109a4c12)
-![html-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/f5056df4-66cf-47d0-90e8-4332166bca93)
-![JS](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/08182331-c727-4fc9-b2e0-a8ca5be739ca)
+<hr>
+![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/90a22840-ba07-4853-b8fe-d8d0333e67e4)
+![vite](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/9f7bd2e8-f826-4dd2-be71-277e11effdcc)
+![reactJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/52141250-3c75-4e36-a1ff-d34ea0e79c31)
+![NextJs](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/3282bdf2-86f3-46f6-9c5a-6f71428ce09c)
+![git](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/fc86926e-b876-4324-bb58-e19708dd4f4b)
+![html-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/cc82ece3-f11b-4433-b4e7-011c36190cd0)
+![JS](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/a2d68686-0c65-4c89-a26d-24d7cf54922c)
+![tailwind-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/5056eaf2-33fa-460c-b2d0-d77ca0278e45)
+![rest-api](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/6a370dca-e374-4b2a-a95b-aa4883f12c97)
+![responsive-design](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/2f00c3a5-d502-459d-9f79-b6ca6db3b688)
+![redux](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/ddd6c5a0-065f-4a69-8533-cbd2c45fac4e)
+
 
