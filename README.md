@@ -5,8 +5,7 @@
 I work in the field of front-end, I worked with<b>JavaScript</b>  language (<b>React</b>  library) professionally and html and css with library and tools (<b>Tailwind bootstrap Sass</b>) and I have a relatively good familiarity with <b>restFullApi and Github.</b> 
 <br>
 Passing intensive courses of learning programming with javascript language on nodejs runtime and then choosing front-end field and learning html css and react and tailwind library and working with git, github and doing many projects including messenger & ... :)
-<section with="100px">
- 
+<div style="width :"200px""> salam</div> 
 ![responsive-design](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/967de00b-6b8c-43bb-a4b8-28f3fee64bb4)
 ![redux](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/754c994c-1202-42c8-b5e2-25ccde05e251)
 ![ts](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/9add6244-d5c8-4183-a9de-9ad974aa9e45)
@@ -19,4 +18,4 @@ Passing intensive courses of learning programming with javascript language on no
 ![tailwind-css](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/5632debe-3437-4abd-9569-e4fd7bf7d69d)
 ![rest-api](https://github.com/hamedAbdollahzade/hamedAbdollahzade/assets/137279292/7a2b0a20-59bf-4e6b-b658-dec205d9fc83)
 
-</section>
+
