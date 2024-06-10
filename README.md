@@ -12,6 +12,7 @@
     projects including messenger & ... :)
 <hr>
 
+<h2> Skills : </h2>
 <ul>
    <li>React</li>
    <li>React</li>
