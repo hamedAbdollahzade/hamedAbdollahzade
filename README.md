@@ -14,6 +14,10 @@
 
 <h2> Skills : </h2>
 <ul>
-   <li>React</li>
-   <li>React</li>
+   <li>Html , Css , JavaScript</li>
+   <li>React js , Next Js</li>
+   <li>RESTful API</li>
+   <li>Tailwind</li>
+   <li>Git , Github</li>
+   <li>Responsive</li>
 </ul>
