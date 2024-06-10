@@ -19,5 +19,7 @@
    <li>RESTful API</li>
    <li>Tailwind</li>
    <li>Git , Github</li>
-   <li>Responsive</li>
+   <li>Responsive Design</li>
+   <li>Figma</li>
+   <li>Redux Toolkit</li>
 </ul>
