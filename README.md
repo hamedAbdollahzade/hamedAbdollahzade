@@ -1,16 +1,18 @@
    <h1>👋 Hi, I’m Hamed Abdollahzdeh - Front End Developer </h1>
     <br />
     <b></b>
-    I work in the field of front-end, I worked with<b>JavaScript</b> language
-    (<b>React</b> library) professionally and html and css with library and
-    tools (<b>Tailwind bootstrap Sass</b>) and I have a relatively good
-    familiarity with <b>restFullApi and Github.</b>
-    <br />
-    Passing intensive courses of learning programming with javascript language
-    on nodejs runtime and then choosing front-end field and learning html css
-    and react and tailwind library and working with git, github and doing many
-    projects including messenger & ... :)
-<hr>
+    I am a passionate and dedicated frontend developer with a strong foundation built over two years of focused learning and practical experience. My journey began with a year-long immersive bootcamp at Faravin, where I honed my skills in modern frontend technologies and best practices. Following this, I have continued to deepen my expertise through self-learning and hands-on projects.
+
+My core competencies include:
+
+Proficiency in JavaScript and its libraries
+Experience in creating dynamic and responsive web applications
+Strong understanding of HTML, CSS, and web design principles
+Ability to troubleshoot and solve complex coding issues
+Commitment to writing clean, efficient, and maintainable code
+I am continuously exploring new tools and technologies to stay updated with industry trends and enhance my skill set. I thrive in collaborative environments and am eager to contribute to innovative projects that make a difference.
+
+Let's connect and explore how we can collaborate to bring creative ideas to life!<hr>
 
 <h2> Skills : </h2>
 <ul>
