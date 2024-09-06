@@ -1,4 +1,4 @@
-   <h1>👋 Hi, I’m Hamed Abdollahzdeh - Front-End Developer 💻 </h1>
+   <h1>👋 Hi, I’m <strong>Hamed Abdollahzdeh</strong> - Front-End Developer 💻 </h1>
     <br />
     <b></b>
     I am a passionate and dedicated frontend developer with a strong foundation built over two years of focused learning and practical experience. My journey began with a year-long immersive bootcamp at Faravin, where I honed my skills in modern frontend technologies and best practices. Following this, I have continued to deepen my expertise through self-learning and hands-on projects.
