@@ -14,7 +14,7 @@ I am continuously exploring new tools and technologies to stay updated with indu
 
 Let's connect and explore how we can collaborate to bring creative ideas to life!<hr>
 
-<h1> Contact number : 0910-790-2735  </h1>
+<h1 style="color🟢"> Contact number : 0910-790-2735  </h1>
 
 <h2> Skills : </h2>
 <ul>
