@@ -8,6 +8,7 @@ Email: hamedabdollahzade.ab@gmail.com
 <h2> Skills : ⚡ </h2>
 <ul>
    <li>✅ Html , Css , JavaScript , TypeScript , React js  , Next Js </li> 
+   <li>✅ Redux Toolkit </li>
    <li>✅ RESTful API</li>
    <li>✅ Tailwind , Mui , bootstrap </li>
    <li>✅ Version Control (Git) , Github</li>
