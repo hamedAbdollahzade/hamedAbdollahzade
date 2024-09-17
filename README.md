@@ -2,8 +2,7 @@
     <br />
     <h2><a href="https://docs.google.com/document/d/1X1w-VLwtwcDmIQycCfp5rnGD_dMCRRePByl9VzOzGTM/edit?usp=sharing">
    ⚡ Click here to view and download my resume ⚡
-       <br/>
-       <br/>
+      <hr/>
 <img  src="https://github.com/LeilaBasri/LeilaBasri/raw/main/Images/finger.png" >
 </a></h2>
 
