@@ -1,7 +1,7 @@
    <h1>👋 Hi, I’m Hamed Abdollahzdeh - Front-End Developer 💻 </h1>
     <br />
     <h2><a href="https://docs.google.com/document/d/1X1w-VLwtwcDmIQycCfp5rnGD_dMCRRePByl9VzOzGTM/edit?usp=sharing">
-   Click here to view and download my resume ![DownloadGIF](https://github.com/user-attachments/assets/62186ba1-ac32-4b8a-ac8c-5e71c7d02620)
+   Click here to view and download my resume ✅
 
 </a></h2>
 
