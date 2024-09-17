@@ -1,8 +1,8 @@
    <h1>👋 Hi, I’m Hamed Abdollahzdeh - Front-End Developer 💻 </h1>
     <br />
-    <h2><a href="https://docs.google.com/document/d/1X1w-VLwtwcDmIQycCfp5rnGD_dMCRRePByl9VzOzGTM/edit?usp=sharing">
+    <h2><a style="color💚" href="https://docs.google.com/document/d/1X1w-VLwtwcDmIQycCfp5rnGD_dMCRRePByl9VzOzGTM/edit?usp=sharing">
    ⚡ Click here to view and download my resume ⚡
-      <hr/>
+
 </a></h2>
 
 📧 Contact Me:
