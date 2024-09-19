@@ -1,4 +1,9 @@
-   <h1>👋 Hi, I’m Hamed Abdollahzdeh - Front-End Developer 💻 </h1>
+
+   ![JavaScript](https://github.com/user-attachments/assets/82511d81-db53-4e08-bc34-3321acca54d1)
+
+   
+   > Hey There!👋, I'm Hamed
+「 I am a passionate frontend developer 」
    <div>
     <h2 ><a  href="https://docs.google.com/document/d/1X1w-VLwtwcDmIQycCfp5rnGD_dMCRRePByl9VzOzGTM/edit?usp=sharing">
    ⚡ Click here to view and download my resume ⚡</a></h2>
