@@ -1,8 +1,6 @@
-<div style={withe:"50px"}>
-   ![JavaScript](https://github.com/user-attachments/assets/82511d81-db53-4e08-bc34-3321acca54d1)
-</div>
 
-   
+   ![JavaScript](https://github.com/user-attachments/assets/82511d81-db53-4e08-bc34-3321acca54d1)
+
    > Hey There!👋, I'm Hamed
 「 I am a passionate frontend developer 」
    <div>
