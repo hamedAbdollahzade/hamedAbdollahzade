@@ -8,11 +8,8 @@
 
 📧 Contact Me:
 Email: hamedabdollahzade.ab@gmail.com
-      
    </div>
-
-
-
+   
 <h2> Skills : ⚡ </h2>
 <ul>
    <li>✅ Html , Css , JavaScript (80%) </li> 
