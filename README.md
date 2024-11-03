@@ -1,7 +1,8 @@
 <h1 >
    Hey There!👋, I'm Hamed
 </h1>
-![download](https://github.com/user-attachments/assets/6b04f7ab-6e93-42a8-9ded-f8dc26f495a1)
+
+![download](https://github.com/user-attachments/assets/a36d658a-ee93-4f1f-a762-1117e50b2680)
 
 「 I am a passionate frontend developer 」
    <div>
