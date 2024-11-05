@@ -34,5 +34,3 @@ Email: hamedabdollahzade.ab@gmail.com
    <li>✅ Package Managers(npm , npx)</li>
 </ul>
 
-
-![download](https://github.com/user-attachments/assets/a36d658a-ee93-4f1f-a762-1117e50b2680)
