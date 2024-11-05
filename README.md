@@ -12,8 +12,6 @@
 📧 Contact Me:
 Email: hamedabdollahzade.ab@gmail.com
    </div>
-   
- <h2>Front End Developer   </h2>  
 
 
    
