@@ -13,7 +13,7 @@
 Email: hamedabdollahzade.ab@gmail.com
    </div>
    
- <h2>Front End Developer With React JS (90%) Back End Developer With Node JS (50%) </h2>  
+ <h2>Front End Developer With React JS  </h2>  
 
 
    
