@@ -21,7 +21,7 @@
 ## 📧 Contact Me
 - **Email:** hamedabdollahzade.ab@gmail.com  
 - **GitHub:** https://github.com/hamedAbdollahzade  
-- **LinkedIn:** [*(Add link here)*](https://www.linkedin.com/in/hamed-abdollahzade)
+- **LinkedIn:** https://www.linkedin.com/in/hamed-abdollahzade
 
 ---
 
