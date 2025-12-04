@@ -83,5 +83,4 @@ I love creating minimal UI components and sharing them in short reels on Instagr
 ---
 
 Thanks for visiting my profile!  
-Feel free to ⭐ your favorite repos 😉
 
