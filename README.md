@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I build fast, modern and scalable front-end applications with clean code and strong UI/UX principles.
+  I build fast, modern and scalable front-end applications with clean code, testable architecture and strong UI/UX principles.
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 📧 Contact Me
 - **Email:** hamedabdollahzade.ab@gmail.com  
 - **GitHub:** https://github.com/hamedAbdollahzade  
-- **LinkedIn:** https://www.linkedin.com/in/hamed-abdollahzade
+- **LinkedIn:** https://www.linkedin.com/in/hamed-abdollahzade  
 
 ---
 
@@ -49,8 +49,25 @@
 - Context API  
 
 ### 🌐 APIs & Backend Interaction
-- RESTful API  
+- RESTful APIs  
 - Axios  
+
+### 🧪 Testing
+- React Testing Library  
+- Unit & Component Testing  
+- Writing testable components  
+- Testing user behavior & edge cases  
+
+### 🐳 DevOps & Environment
+- Docker & Docker Compose  
+- Containerizing front-end applications  
+- Nginx basic configuration  
+- Environment-based builds (Dev / Prod)  
+
+### 🐧 Operating Systems
+- Linux (Ubuntu)  
+- Working with terminal & shell commands  
+- Development environment setup  
 
 ### ⚙️ Tooling
 - Git & GitHub  
@@ -62,25 +79,25 @@
 
 ## 🧩 What I Do
 - Build modern, scalable and maintainable web applications  
+- Write clean, testable and reusable components  
 - Optimize performance & improve UI/UX  
 - Convert UI designs to pixel-perfect layouts  
-- Develop reusable components and clean architecture  
-- Work with dashboards, CRMs, PWAs and complex forms  
+- Develop dashboards, CRMs, PWAs and complex form systems  
+- Dockerize front-end projects for consistent environments  
 
 ---
 
 ## 💡 Current Focus
 - Improving Link CRM (Link ERP) dashboard  
-- Learning Ant Design deeply  
-- Enhancing testing skills (React Testing Library)  
-- Vue 3 personal project with Jalali calendar & task system  
+- Deep dive into Ant Design  
+- Strengthening testing skills (React Testing Library)  
+- Vue 3 personal project with Jalali calendar & task management system  
 
 ---
 
 ## 📌 Fun Fact
-I love creating minimal UI components and sharing them in short reels on Instagram! 🎥✨
+I love creating minimal UI components and sharing them as short reels on Instagram! 🎥✨
 
 ---
 
-Thanks for visiting my profile!  
-
+Thanks for visiting my profile!
