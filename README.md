@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Frontend Developer | React | Vue 3 | Redux | PWA</strong>
+  <strong>Frontend Developer | React | Next Js | Redux | PWA</strong>
 </p>
 
 <p align="center">
